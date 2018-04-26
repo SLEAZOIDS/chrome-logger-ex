@@ -1,4 +1,5 @@
 <?php
+namespace Sleazoids;
 class C
 {
     public static function log($message)
