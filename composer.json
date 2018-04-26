@@ -16,10 +16,5 @@
     "repositories": [{
         "type": "vcs",
         "url": "https://github.com/SLEAZOIDS/chrome-logger-ex"
-    }],
-    "autoload": {
-        "psr-4": {
-            "SLEAZOIDS\\ChromeLoggerEx\\": "src/ChromeLogger/"
-        }
-    }
+    }]
 }
