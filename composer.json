@@ -2,19 +2,8 @@
     "name": "SLEAZOIDS/chrome-logger-ex",
     "description": "chrome-logger-extension",
     "type": "library",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "SLEAZOIDS",
-            "email": "vegetarian304@gmail.com"
-        }
-    ],
     "minimum-stability": "stable",
     "require": {
         "ccampbell/chromephp": "4.1.0"
-    },
-    "repositories": [{
-        "type": "vcs",
-        "url": "https://github.com/SLEAZOIDS/chrome-logger-ex"
-    }]
+    }
 }
